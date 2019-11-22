@@ -17,7 +17,7 @@ export default class HomePage extends Component {
     return (
       <div className="">
         <div className="map" >
-        
+        <br/> <br/> <br/> <br/> <br/>
           {/* <GoogleMapReact
             style={{ height: "100px", width: "50%" }}
             bootstrapURLKeys={{

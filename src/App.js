@@ -5,6 +5,8 @@ import Home from "./components/HomePage";
 import { Switch, Route, Link } from "react-router-dom";
 import ListingDetail from './components/ListingDetail'
 import "bootstrap/dist/css/bootstrap.min.css";
+import NavBar from './components/Navbar'
+import Search from './components/Search'
 
 export default class App extends Component {
 
@@ -19,11 +21,14 @@ export default class App extends Component {
     return (
       <div>
         {/* <Listing listingData={this.state.data} /> */}
-        <Link to="/">HomePage</Link>
+        
+        <NavBar />
+      <div className="searchbar"> </div>
+         <Search />
         <Switch>
           <Route
             exact
-            path="/"
+            path="/listings/"
             render={props => (
               <Home
                 {...props}
