@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 // import “bootstrap/dist/css/bootstrap.min.css”;
+console.log('adsfs')
 
 export default class ListingDetail extends Component {
     
     render() {
-
 
         return (
             <div className="container-fluid">
