@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IronBnB/ironbnb/static/css/main.b100e6da.chunk.css",
+    "main.js": "/IronBnB/ironbnb/static/js/main.9d69cb8c.chunk.js",
+    "main.js.map": "/IronBnB/ironbnb/static/js/main.9d69cb8c.chunk.js.map",
+    "runtime-main.js": "/IronBnB/ironbnb/static/js/runtime-main.dee63a36.js",
+    "runtime-main.js.map": "/IronBnB/ironbnb/static/js/runtime-main.dee63a36.js.map",
+    "static/js/2.95c430ac.chunk.js": "/IronBnB/ironbnb/static/js/2.95c430ac.chunk.js",
+    "static/js/2.95c430ac.chunk.js.map": "/IronBnB/ironbnb/static/js/2.95c430ac.chunk.js.map",
+    "index.html": "/IronBnB/ironbnb/index.html",
+    "precache-manifest.db35401978185cf4e130e4d59b82a204.js": "/IronBnB/ironbnb/precache-manifest.db35401978185cf4e130e4d59b82a204.js",
+    "service-worker.js": "/IronBnB/ironbnb/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/IronBnB/ironbnb/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/IronBnB/ironbnb/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dee63a36.js",
+    "static/js/2.95c430ac.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.9d69cb8c.chunk.js"
+  ]
+}
