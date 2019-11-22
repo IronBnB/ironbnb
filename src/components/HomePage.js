@@ -14,24 +14,34 @@ export default class HomePage extends Component {
   };
   render() {
     return (
-      <div className="homepage">
-        <div className="col-5">
-          <GoogleMapReact className="map"
-            style={{ height: "100px", width: "100px" }}
+      <div className="d-flex flex-row">
+        <div className="col-5" map>
+
+        
+        {/* <GoogleMapReact
+            style={{ height: "100px", width: "50%" }}
             bootstrapURLKeys={{
               key: "AIzaSyDZiBSkaZztK2mN3Q8QzvzcfPCsDX2_p58"
             }}
             defaultCenter={this.state.center}
             defaultZoom={this.state.zoom}
           >
-            {/* {this.showParks()} */}
-            <Marker
+          
+             <Marker
               lat="25.7617"
               lng="-80.1918"
-            />
-          </GoogleMapReact>
+            /> 
+          </GoogleMapReact> */}
+        
         </div>
         <div className="col-7">
+        <div className="flex-row ">
+
+        <button className="btn btn-outline-dark">For Sale</button>
+        <button className="btn btn-outline-dark">Price</button>
+        <button className="btn btn-outline-dark">Type</button>
+        <input type="text" className="form-control" placeholder="Miami,FL" />
+        </div>
           <Listing listingData={this.props.listingData} />
         </div>
       </div>

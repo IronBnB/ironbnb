@@ -21,7 +21,17 @@
   color: #09d3ac;
 }
 
-.map {
-  width: 50px !important;
-  height: 50px !important;
+
+.listing {
+  position: absolute;
+  right: 200px;
+  z-index: 1000;
+  background-color: white;
 }
+
+.map {
+background-image: url('./images/googlemap.jpeg');
+background-size: cover;
+background-repeat: no-repeat;
+}
+
