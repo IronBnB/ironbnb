@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ironbnb/static/css/main.b100e6da.chunk.css",
-    "main.js": "/ironbnb/static/js/main.0bc72f77.chunk.js",
-    "main.js.map": "/ironbnb/static/js/main.0bc72f77.chunk.js.map",
-    "runtime-main.js": "/ironbnb/static/js/runtime-main.bd9e32cc.js",
-    "runtime-main.js.map": "/ironbnb/static/js/runtime-main.bd9e32cc.js.map",
-    "static/js/2.95c430ac.chunk.js": "/ironbnb/static/js/2.95c430ac.chunk.js",
-    "static/js/2.95c430ac.chunk.js.map": "/ironbnb/static/js/2.95c430ac.chunk.js.map",
-    "index.html": "/ironbnb/index.html",
-    "precache-manifest.5a861fdd2ed323e8966e941a8a6bf58b.js": "/ironbnb/precache-manifest.5a861fdd2ed323e8966e941a8a6bf58b.js",
-    "service-worker.js": "/ironbnb/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/ironbnb/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/ironbnb/static/media/logo.25bf045c.svg"
+    "main.css": "/ironbnb/ironbnb/static/css/main.b100e6da.chunk.css",
+    "main.js": "/ironbnb/ironbnb/static/js/main.08442083.chunk.js",
+    "main.js.map": "/ironbnb/ironbnb/static/js/main.08442083.chunk.js.map",
+    "runtime-main.js": "/ironbnb/ironbnb/static/js/runtime-main.08bfbd80.js",
+    "runtime-main.js.map": "/ironbnb/ironbnb/static/js/runtime-main.08bfbd80.js.map",
+    "static/js/2.95c430ac.chunk.js": "/ironbnb/ironbnb/static/js/2.95c430ac.chunk.js",
+    "static/js/2.95c430ac.chunk.js.map": "/ironbnb/ironbnb/static/js/2.95c430ac.chunk.js.map",
+    "index.html": "/ironbnb/ironbnb/index.html",
+    "precache-manifest.b2527a124f94f446b4f6524236e66d9d.js": "/ironbnb/ironbnb/precache-manifest.b2527a124f94f446b4f6524236e66d9d.js",
+    "service-worker.js": "/ironbnb/ironbnb/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/ironbnb/ironbnb/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/ironbnb/ironbnb/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd9e32cc.js",
+    "static/js/runtime-main.08bfbd80.js",
     "static/js/2.95c430ac.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.0bc72f77.chunk.js"
+    "static/js/main.08442083.chunk.js"
   ]
 }
