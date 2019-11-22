@@ -35,3 +35,9 @@ background-size: cover;
 background-repeat: no-repeat;
 }
 
+.listing {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
