@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ironbnb/precache-manifest.5a861fdd2ed323e8966e941a8a6bf58b.js"
+  "/ironbnb/precache-manifest.e0ce0660c156d7258e0606e5e8af5dad.js"
 );
 
 self.addEventListener('message', (event) => {
