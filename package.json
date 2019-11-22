@@ -2,7 +2,7 @@
   "name": "iron-b-n-b",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ironbnb/ironbnb",
+  "homepage": "https://IronBnB.github.io/ironbnb/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
