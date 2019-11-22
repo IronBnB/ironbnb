@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import DataJson from './data.json'
-import Listing from './Listing/Listing'
+import Listing from './Components/Listing'
 
 export default class App extends Component {
 
